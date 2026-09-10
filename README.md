@@ -1,2 +1,2 @@
 # Camera-Photography
-t\This is a camera photography project.
+This is a camera photography project.
